@@ -1,0 +1,369 @@
+STUDY	#NAME	DESIGN	STATUS	SITE	DENTITION	AGE
+He et al., 2017	SRR3931522	Cross-sectional	Health	Plaque	Permanent	NA
+He et al., 2018	SRR3931523	Cross-sectional	Health	Plaque	Permanent	NA
+He et al., 2019	SRR3931524	Cross-sectional	Health	Plaque	Permanent	NA
+He et al., 2020	SRR3931525	Cross-sectional	Health	Plaque	Permanent	NA
+He et al., 2021	SRR3931526	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2022	SRR3931527	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2023	SRR3931528	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2024	SRR3931529	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2025	SRR3931530	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2026	SRR3931531	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2027	SRR3931532	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2028	SRR3931533	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2029	SRR3931534	Cross-sectional	Health	Plaque	Permanent	NA
+He et al., 2030	SRR3931535	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2031	SRR3931536	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2032	SRR3931537	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2033	SRR3931538	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2034	SRR3931539	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2035	SRR3931540	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2036	SRR3931541	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2037	SRR3931542	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2038	SRR3931543	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2039	SRR3931544	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2040	SRR3931545	Cross-sectional	Health	Plaque	Permanent	NA
+He et al., 2041	SRR3931546	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2042	SRR3931547	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2043	SRR3931548	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2044	SRR3931549	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2045	SRR3931550	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2046	SRR3931551	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2047	SRR3931552	Cross-sectional	Caries	Plaque	Permanent	NA
+He et al., 2048	SRR3931553	Cross-sectional	Health	Plaque	Permanent	NA
+He et al., 2049	SRR3931554	Cross-sectional	Health	Plaque	Permanent	NA
+He et al., 2050	SRR3931555	Cross-sectional	Health	Plaque	Permanent	NA
+He et al., 2051	SRR3931556	Cross-sectional	Health	Plaque	Permanent	NA
+He et al., 2052	SRR3931557	Cross-sectional	Health	Plaque	Permanent	NA
+He et al., 2053	SRR3931558	Cross-sectional	Health	Plaque	Permanent	NA
+Xu et al., 2018	SRR7500378	Cohort	Health	Plaque	Deciduous	41 months
+Xu et al., 2019	SRR7500379	Cohort	Health	Plaque	Deciduous	41 months
+Xu et al., 2020	SRR7500380	Cohort	Health	Plaque	Deciduous	39 months
+Xu et al., 2021	SRR7500381	Cohort	Health	Plaque	Deciduous	41 months
+Xu et al., 2022	SRR7500382	Cohort	Health	Plaque	Deciduous	38 months
+Xu et al., 2023	SRR7500383	Cohort	Health	Plaque	Deciduous	38 months
+Xu et al., 2024	SRR7500384	Cohort	Health	Plaque	Deciduous	38 months
+Xu et al., 2025	SRR7500385	Cohort	Health	Plaque	Deciduous	41 months
+Xu et al., 2026	SRR7500386	Cohort	Health	Plaque	Deciduous	41 months
+Xu et al., 2027	SRR7500387	Cohort	Health	Plaque	Deciduous	37 months
+Xu et al., 2028	SRR7500388	Cohort	Health	Plaque	Deciduous	38 months
+Xu et al., 2029	SRR7500389	Cohort	Health	Plaque	Deciduous	39 months
+Xu et al., 2030	SRR7500390	Cohort	Health	Plaque	Deciduous	40 months
+Xu et al., 2031	SRR7500391	Cohort	Health	Plaque	Deciduous	41 months
+Xu et al., 2032	SRR7500392	Cohort	Health	Plaque	Deciduous	39 months
+Xu et al., 2033	SRR7500393	Cohort	Health	Plaque	Deciduous	40 months
+Xu et al., 2034	SRR7500394	Cohort	Health	Plaque	Deciduous	41 months
+Xu et al., 2035	SRR7500395	Cohort	Caries	Plaque	Deciduous	40 months
+Xu et al., 2036	SRR7500396	Cohort	Caries	Plaque	Deciduous	37 months
+Xu et al., 2037	SRR7500397	Cohort	Caries	Plaque	Deciduous	41 months
+Xu et al., 2038	SRR7500398	Cohort	Caries	Plaque	Deciduous	41 months
+Xu et al., 2039	SRR7500399	Cohort	Caries	Plaque	Deciduous	39 months
+Xu et al., 2040	SRR7500400	Cohort	Caries	Plaque	Deciduous	39 months
+Xu et al., 2041	SRR7500401	Cohort	Caries	Plaque	Deciduous	38 months
+Xu et al., 2042	SRR7500402	Cohort	Caries	Plaque	Deciduous	39 months
+Xu et al., 2043	SRR7500403	Cohort	Health	Plaque	Deciduous	38 months
+Xu et al., 2044	SRR7500404	Cohort	Caries	Plaque	Deciduous	36 months
+Xu et al., 2045	SRR7500405	Cohort	Health	Plaque	Deciduous	41 months
+Xu et al., 2046	SRR7500406	Cohort	Health	Plaque	Deciduous	39 months
+Xu et al., 2047	SRR7500407	Cohort	Health	Plaque	Deciduous	37 months
+Xu et al., 2048	SRR7500408	Cohort	Health	Plaque	Deciduous	36 months
+Xu et al., 2049	SRR7500409	Cohort	Health	Plaque	Deciduous	38 months
+Xu et al., 2050	SRR7500410	Cohort	Health	Plaque	Deciduous	39 months
+Xu et al., 2051	SRR7500411	Cohort	Health	Plaque	Deciduous	40 months
+Xu et al., 2052	SRR7500412	Cohort	Health	Plaque	Deciduous	41 months
+Xu et al., 2053	SRR7500413	Cohort	Health	Plaque	Deciduous	40 months
+Xu et al., 2054	SRR7500414	Cohort	Caries	Plaque	Deciduous	36 months
+Xu et al., 2055	SRR7500415	Cohort	Caries	Plaque	Deciduous	37 months
+Xu et al., 2056	SRR7500416	Cohort	Caries	Plaque	Deciduous	36 months
+Xu et al., 2057	SRR7500417	Cohort	Caries	Plaque	Deciduous	41 months
+Xu et al., 2058	SRR7500418	Cohort	Caries	Plaque	Deciduous	40 months
+Xu et al., 2059	SRR7500419	Cohort	Caries	Plaque	Deciduous	39 months
+Xu et al., 2060	SRR7500420	Cohort	Caries	Plaque	Deciduous	41 months
+Xu et al., 2061	SRR7500421	Cohort	Caries	Plaque	Deciduous	39 months
+Xu et al., 2062	SRR7500422	Cohort	Caries	Plaque	Deciduous	39 months
+Xu et al., 2063	SRR7500423	Cohort	Caries	Plaque	Deciduous	36 months
+Xu et al., 2064	SRR7500424	Cohort	Caries	Plaque	Deciduous	38 months
+Xu et al., 2065	SRR7500425	Cohort	Health	Plaque	Deciduous	40 months
+Xu et al., 2066	SRR7500426	Cohort	Health	Plaque	Deciduous	39 months
+Xu et al., 2067	SRR7500427	Cohort	Health	Plaque	Deciduous	38 months
+Xu et al., 2068	SRR7500428	Cohort	Health	Plaque	Deciduous	41 months
+Xu et al., 2069	SRR7500429	Cohort	Health	Plaque	Deciduous	40 months
+Xu et al., 2070	SRR7500430	Cohort	Health	Plaque	Deciduous	39 months
+Xu et al., 2071	SRR7500431	Cohort	Health	Plaque	Deciduous	41 months
+Xu et al., 2072	SRR7500432	Cohort	Health	Plaque	Deciduous	36 months
+Xu et al., 2073	SRR7500433	Cohort	Caries	Plaque	Deciduous	37 months
+Xu et al., 2074	SRR7500434	Cohort	Caries	Plaque	Deciduous	36 months
+Xu et al., 2075	SRR7500435	Cohort	Health	Plaque	Deciduous	38 months
+Xu et al., 2076	SRR7500436	Cohort	Health	Plaque	Deciduous	41 months
+Xu et al., 2077	SRR7500437	Cohort	Health	Plaque	Deciduous	39 months
+Xu et al., 2078	SRR7500438	Cohort	Health	Plaque	Deciduous	37 months
+Xu et al., 2079	SRR7500439	Cohort	Health	Plaque	Deciduous	41 months
+Xu et al., 2080	SRR7500440	Cohort	Health	Plaque	Deciduous	41 months
+Xu et al., 2081	SRR7500441	Cohort	Health	Plaque	Deciduous	38 months
+Xu et al., 2082	SRR7500442	Cohort	Health	Plaque	Deciduous	41 months
+Xu et al., 2083	SRR7500443	Cohort	Health	Plaque	Deciduous	41 months
+Xu et al., 2084	SRR7500444	Cohort	Health	Plaque	Deciduous	37 months
+Xu et al., 2085	SRR7500445	Cohort	Health	Plaque	Deciduous	36 months
+Xu et al., 2086	SRR7500446	Cohort	Health	Plaque	Deciduous	37 months
+Xu et al., 2087	SRR7500447	Cohort	Health	Plaque	Deciduous	38 months
+Xu et al., 2088	SRR7500448	Cohort	Health	Plaque	Deciduous	41 months
+Xu et al., 2089	SRR7500449	Cohort	Health	Plaque	Deciduous	41 months
+Xu et al., 2090	SRR7500450	Cohort	Health	Plaque	Deciduous	41 months
+Xu et al., 2091	SRR7500451	Cohort	Health	Plaque	Deciduous	39 months
+Xu et al., 2092	SRR7500452	Cohort	Health	Plaque	Deciduous	41 months
+Xu et al., 2093	SRR7500453	Cohort	Health	Plaque	Deciduous	41 months
+Xu et al., 2094	SRR7500454	Cohort	Health	Plaque	Deciduous	37 months
+Xu et al., 2095	SRR7500455	Cohort	Health	Plaque	Deciduous	38 months
+Xu et al., 2096	SRR7500456	Cohort	Health	Plaque	Deciduous	38 months
+Xu et al., 2097	SRR7500457	Cohort	Caries	Plaque	Deciduous	38 months
+Xu et al., 2098	SRR7500458	Cohort	Caries	Plaque	Deciduous	36 months
+Xu et al., 2099	SRR7500459	Cohort	Caries	Plaque	Deciduous	39 months
+Xu et al., 2100	SRR7500460	Cohort	Caries	Plaque	Deciduous	39 months
+Xu et al., 2101	SRR7500461	Cohort	Caries	Plaque	Deciduous	41 months
+Xu et al., 2102	SRR7500462	Cohort	Caries	Plaque	Deciduous	39 months
+Xu et al., 2103	SRR7500463	Cohort	Caries	Plaque	Deciduous	40 months
+Xu et al., 2104	SRR7500464	Cohort	Caries	Plaque	Deciduous	41 months
+Zhu et al., 2018	SRR7908909	Cohort	Caries	Saliva	Deciduous	65 months
+Zhu et al., 2019	SRR7908910	Cohort	Caries	Saliva	Deciduous	57 months
+Zhu et al., 2020	SRR7908911	Cohort	Caries	Saliva	Deciduous	61 months
+Zhu et al., 2021	SRR7908912	Cohort	Caries	Saliva	Deciduous	64 months
+Zhu et al., 2022	SRR7908913	Cohort	Caries	Saliva	Deciduous	63 months
+Zhu et al., 2023	SRR7908914	Cohort	Caries	Saliva	Deciduous	68 months
+Zhu et al., 2024	SRR7908915	Cohort	Caries	Saliva	Deciduous	72 months
+Zhu et al., 2025	SRR7908916	Cohort	Caries	Saliva	Deciduous	71 months
+Zhu et al., 2026	SRR7908917	Cohort	Caries	Saliva	Deciduous	53 months
+Zhu et al., 2027	SRR7908918	Cohort	Caries	Saliva	Deciduous	52 months
+Zhu et al., 2028	SRR7908919	Cohort	Caries	Saliva	Deciduous	59 months
+Zhu et al., 2029	SRR7908920	Cohort	Caries	Saliva	Deciduous	68 months
+Zhu et al., 2030	SRR7908921	Cohort	Caries	Saliva	Deciduous	70 months
+Zhu et al., 2031	SRR7908922	Cohort	Caries	Saliva	Deciduous	66 months
+Zhu et al., 2032	SRR7908923	Cohort	Caries	Saliva	Deciduous	64 months
+Zhu et al., 2033	SRR7908924	Cohort	Caries	Saliva	Deciduous	66 months
+Zhu et al., 2034	SRR7908925	Cohort	Health	Saliva	Deciduous	60 months
+Zhu et al., 2035	SRR7908926	Cohort	Health	Saliva	Deciduous	60 months
+Zhu et al., 2036	SRR7908927	Cohort	Health	Saliva	Deciduous	54 months
+Zhu et al., 2037	SRR7908928	Cohort	Caries	Saliva	Deciduous	49 months
+Zhu et al., 2038	SRR7908929	Cohort	Caries	Saliva	Deciduous	52 months
+Zhu et al., 2039	SRR7908930	Cohort	Health	Saliva	Deciduous	64 months
+Zhu et al., 2040	SRR7908931	Cohort	Health	Saliva	Deciduous	68 months
+Zhu et al., 2041	SRR7908932	Cohort	Caries	Saliva	Deciduous	60 months
+Zhu et al., 2042	SRR7908933	Cohort	Caries	Saliva	Deciduous	59 months
+Zhu et al., 2043	SRR7908934	Cohort	Health	Saliva	Deciduous	71 months
+Zhu et al., 2044	SRR7908935	Cohort	Caries	Saliva	Deciduous	56 months
+Zhu et al., 2045	SRR7908936	Cohort	Caries	Saliva	Deciduous	62 months
+Zhu et al., 2046	SRR7908937	Cohort	Caries	Saliva	Deciduous	64 months
+Zhu et al., 2047	SRR7908938	Cohort	Caries	Saliva	Deciduous	60 months
+Zhu et al., 2048	SRR7908939	Cohort	Caries	Saliva	Deciduous	58 months
+Zhu et al., 2049	SRR7908940	Cohort	Caries	Saliva	Deciduous	51 months
+Zhu et al., 2050	SRR7908941	Cohort	Health	Saliva	Deciduous	48 months
+Zhu et al., 2051	SRR7908942	Cohort	Caries	Saliva	Deciduous	64 months
+Zhu et al., 2052	SRR7908943	Cohort	Health	Saliva	Deciduous	52 months
+Zhu et al., 2053	SRR7908944	Cohort	Health	Saliva	Deciduous	60 months
+Zhu et al., 2054	SRR7908945	Cohort	Health	Saliva	Deciduous	56 months
+Zhu et al., 2055	SRR7908946	Cohort	Health	Saliva	Deciduous	61 months
+Zhu et al., 2056	SRR7908947	Cohort	Health	Saliva	Deciduous	72 months
+Zhu et al., 2057	SRR7908948	Cohort	Caries	Saliva	Deciduous	65 months
+Zhu et al., 2058	SRR7908949	Cohort	Health	Saliva	Deciduous	66 months
+Zhu et al., 2059	SRR7908950	Cohort	Health	Saliva	Deciduous	64 months
+Zhu et al., 2060	SRR7908951	Cohort	Health	Saliva	Deciduous	62 months
+Zhu et al., 2061	SRR7908952	Cohort	Health	Saliva	Deciduous	60 months
+Zhu et al., 2062	SRR7908953	Cohort	Health	Saliva	Deciduous	59 months
+Zhu et al., 2063	SRR7908954	Cohort	Health	Saliva	Deciduous	58 months
+Zhu et al., 2064	SRR7908955	Cohort	Health	Saliva	Deciduous	55 months
+Zhu et al., 2065	SRR7908956	Cohort	Health	Saliva	Deciduous	60 months
+Zhu et al., 2066	SRR7908957	Cohort	Health	Saliva	Deciduous	54 months
+Zhu et al., 2067	SRR7908958	Cohort	Health	Saliva	Deciduous	55 months
+Zhu et al., 2068	SRR7908959	Cohort	Health	Saliva	Deciduous	54 months
+Zhu et al., 2069	SRR7908960	Cohort	Health	Saliva	Deciduous	56 months
+Zhu et al., 2070	SRR7908961	Cohort	Caries	Saliva	Deciduous	65 months
+Zhu et al., 2071	SRR7908962	Cohort	Caries	Saliva	Deciduous	58 months
+Zhu et al., 2072	SRR7908963	Cohort	Caries	Saliva	Deciduous	76 months
+Zhu et al., 2073	SRR7908964	Cohort	Caries	Saliva	Deciduous	74 months
+Zhu et al., 2074	SRR7908965	Cohort	Caries	Saliva	Deciduous	55 months
+Zhu et al., 2075	SRR7908966	Cohort	Caries	Saliva	Deciduous	62 months
+Zhu et al., 2076	SRR7908967	Cohort	Caries	Saliva	Deciduous	59 months
+Zhu et al., 2077	SRR7908968	Cohort	Caries	Saliva	Deciduous	58 months
+Zhu et al., 2078	SRR7908969	Cohort	Health	Saliva	Deciduous	49 months
+Zhu et al., 2079	SRR7908970	Cohort	Health	Saliva	Deciduous	49 months
+Zhu et al., 2080	SRR7908971	Cohort	Caries	Saliva	Deciduous	70 months
+Zhu et al., 2081	SRR7908972	Cohort	Caries	Saliva	Deciduous	72 months
+Zhu et al., 2082	SRR7908973	Cohort	Health	Saliva	Deciduous	54 months
+Zhu et al., 2083	SRR7908974	Cohort	Caries	Saliva	Deciduous	71 months
+Zhu et al., 2084	SRR7908975	Cohort	Health	Saliva	Deciduous	83 months
+Zhu et al., 2085	SRR7908976	Cohort	Health	Saliva	Deciduous	60 months
+Zhu et al., 2086	SRR7908977	Cohort	Health	Saliva	Deciduous	76 months
+Zhu et al., 2087	SRR7908978	Cohort	Health	Saliva	Deciduous	71 months
+Zhu et al., 2088	SRR7908979	Cohort	Health	Saliva	Deciduous	72 months
+Zhu et al., 2089	SRR7908980	Cohort	Health	Saliva	Deciduous	60 months
+Zhu et al., 2090	SRR7908981	Cohort	Health	Saliva	Deciduous	66 months
+Zhu et al., 2091	SRR7908982	Cohort	Health	Saliva	Deciduous	61 months
+Zhu et al., 2092	SRR7908983	Cohort	Health	Saliva	Deciduous	77 months
+Zhu et al., 2093	SRR7908984	Cohort	Health	Saliva	Deciduous	62 months
+Zhu et al., 2094	SRR7908985	Cohort	Health	Saliva	Deciduous	66 months
+Zhu et al., 2095	SRR7908986	Cohort	Health	Saliva	Deciduous	70 months
+Zhu et al., 2096	SRR7908987	Cohort	Health	Saliva	Deciduous	66 months
+Zhu et al., 2097	SRR7908988	Cohort	Health	Saliva	Deciduous	65 months
+Zhu et al., 2098	SRR7908989	Cohort	Health	Saliva	Deciduous	48 months
+Zhu et al., 2099	SRR7908990	Cohort	Health	Saliva	Deciduous	50 months
+Zhu et al., 2100	SRR7908991	Cohort	Health	Saliva	Deciduous	48 months
+Zhu et al., 2101	SRR7908992	Cohort	Health	Saliva	Deciduous	54 months
+de Jesus et al., 2020	SRR9712101	Cross-sectional	Health	Plaque	Deciduous	51 months
+de Jesus et al., 2021	SRR9712102	Cross-sectional	Health	Plaque	Deciduous	69 months
+de Jesus et al., 2022	SRR9712103	Cross-sectional	Health	Plaque	Deciduous	18 months
+de Jesus et al., 2023	SRR9712104	Cross-sectional	Health	Plaque	Deciduous	44 months
+de Jesus et al., 2024	SRR9712105	Cross-sectional	Health	Plaque	Deciduous	20 months
+de Jesus et al., 2025	SRR9712106	Cross-sectional	Caries	Plaque	Deciduous	68 months
+de Jesus et al., 2026	SRR9712107	Cross-sectional	Health	Plaque	Deciduous	36 months
+de Jesus et al., 2027	SRR9712108	Cross-sectional	Health	Plaque	Deciduous	46 months
+de Jesus et al., 2028	SRR9712109	Cross-sectional	Health	Plaque	Deciduous	50 months
+de Jesus et al., 2029	SRR9712110	Cross-sectional	Health	Plaque	Deciduous	50 months
+de Jesus et al., 2030	SRR9712111	Cross-sectional	Health	Plaque	Deciduous	67 months
+de Jesus et al., 2031	SRR9712112	Cross-sectional	Health	Plaque	Deciduous	37 months
+de Jesus et al., 2032	SRR9712113	Cross-sectional	Health	Plaque	Deciduous	65 months
+de Jesus et al., 2033	SRR9712114	Cross-sectional	Health	Plaque	Deciduous	34 months
+de Jesus et al., 2034	SRR9712115	Cross-sectional	Health	Plaque	Deciduous	35 months
+de Jesus et al., 2035	SRR9712116	Cross-sectional	Caries	Plaque	Deciduous	52 months
+de Jesus et al., 2036	SRR9712117	Cross-sectional	Health	Plaque	Deciduous	36 months
+de Jesus et al., 2037	SRR9712118	Cross-sectional	Health	Plaque	Deciduous	25 months
+de Jesus et al., 2038	SRR9712119	Cross-sectional	Health	Plaque	Deciduous	62 months
+de Jesus et al., 2039	SRR9712120	Cross-sectional	Health	Plaque	Deciduous	34 months
+de Jesus et al., 2040	SRR9712121	Cross-sectional	Caries	Plaque	Deciduous	40 months
+de Jesus et al., 2041	SRR9712122	Cross-sectional	Caries	Plaque	Deciduous	38 months
+de Jesus et al., 2042	SRR9712123	Cross-sectional	Caries	Plaque	Deciduous	30 months
+de Jesus et al., 2043	SRR9712124	Cross-sectional	Caries	Plaque	Deciduous	40 months
+de Jesus et al., 2044	SRR9712125	Cross-sectional	Caries	Plaque	Deciduous	35 months
+de Jesus et al., 2045	SRR9712126	Cross-sectional	Caries	Plaque	Deciduous	52 months
+de Jesus et al., 2046	SRR9712127	Cross-sectional	Caries	Plaque	Deciduous	40 months
+de Jesus et al., 2047	SRR9712128	Cross-sectional	Caries	Plaque	Deciduous	56 months
+de Jesus et al., 2048	SRR9712129	Cross-sectional	Caries	Plaque	Deciduous	70 months
+de Jesus et al., 2049	SRR9712130	Cross-sectional	Caries	Plaque	Deciduous	41 months
+de Jesus et al., 2050	SRR9712131	Cross-sectional	Caries	Plaque	Deciduous	44 months
+de Jesus et al., 2051	SRR9712132	Cross-sectional	Health	Plaque	Deciduous	51 months
+de Jesus et al., 2052	SRR9712133	Cross-sectional	Health	Plaque	Deciduous	69 months
+de Jesus et al., 2053	SRR9712134	Cross-sectional	Health	Plaque	Deciduous	50 months
+de Jesus et al., 2054	SRR9712135	Cross-sectional	Health	Plaque	Deciduous	50 months
+de Jesus et al., 2055	SRR9712136	Cross-sectional	Health	Plaque	Deciduous	36 months
+de Jesus et al., 2056	SRR9712137	Cross-sectional	Health	Plaque	Deciduous	46 months
+de Jesus et al., 2057	SRR9712138	Cross-sectional	Health	Plaque	Deciduous	20 months
+de Jesus et al., 2058	SRR9712139	Cross-sectional	Caries	Plaque	Deciduous	68 months
+de Jesus et al., 2059	SRR9712140	Cross-sectional	Health	Plaque	Deciduous	18 months
+de Jesus et al., 2060	SRR9712141	Cross-sectional	Health	Plaque	Deciduous	44 months
+de Jesus et al., 2061	SRR9712142	Cross-sectional	Caries	Plaque	Deciduous	31 months
+de Jesus et al., 2062	SRR9712143	Cross-sectional	Caries	Plaque	Deciduous	51 months
+de Jesus et al., 2063	SRR9712144	Cross-sectional	Caries	Plaque	Deciduous	47 months
+de Jesus et al., 2064	SRR9712145	Cross-sectional	Caries	Plaque	Deciduous	47 months
+de Jesus et al., 2065	SRR9712146	Cross-sectional	Caries	Plaque	Deciduous	40 months
+de Jesus et al., 2066	SRR9712147	Cross-sectional	Caries	Plaque	Deciduous	62 months
+de Jesus et al., 2067	SRR9712148	Cross-sectional	Caries	Plaque	Deciduous	33 months
+de Jesus et al., 2068	SRR9712149	Cross-sectional	Health	Plaque	Deciduous	65 months
+de Jesus et al., 2069	SRR9712150	Cross-sectional	Health	Plaque	Deciduous	28 months
+de Jesus et al., 2070	SRR9712151	Cross-sectional	Caries	Plaque	Deciduous	34 months
+de Jesus et al., 2071	SRR9712152	Cross-sectional	Caries	Plaque	Deciduous	49 months
+de Jesus et al., 2072	SRR9712153	Cross-sectional	Caries	Plaque	Deciduous	44 months
+de Jesus et al., 2073	SRR9712154	Cross-sectional	Caries	Plaque	Deciduous	54 months
+de Jesus et al., 2074	SRR9712155	Cross-sectional	Caries	Plaque	Deciduous	40 months
+de Jesus et al., 2075	SRR9712156	Cross-sectional	Health	Plaque	Deciduous	63 months
+de Jesus et al., 2076	SRR9712157	Cross-sectional	Caries	Plaque	Deciduous	33 months
+de Jesus et al., 2077	SRR9712158	Cross-sectional	Health	Plaque	Deciduous	63 months
+de Jesus et al., 2078	SRR9712159	Cross-sectional	Caries	Plaque	Deciduous	59 months
+de Jesus et al., 2079	SRR9712160	Cross-sectional	Caries	Plaque	Deciduous	39 months
+de Jesus et al., 2080	SRR9712161	Cross-sectional	Caries	Plaque	Deciduous	64 months
+de Jesus et al., 2081	SRR9712162	Cross-sectional	Caries	Plaque	Deciduous	33 months
+de Jesus et al., 2082	SRR9712163	Cross-sectional	Health	Plaque	Deciduous	41 months
+de Jesus et al., 2083	SRR9712164	Cross-sectional	Health	Plaque	Deciduous	44 months
+de Jesus et al., 2084	SRR9712165	Cross-sectional	Health	Plaque	Deciduous	28 months
+de Jesus et al., 2085	SRR9712166	Cross-sectional	Caries	Plaque	Deciduous	34 months
+de Jesus et al., 2086	SRR9712167	Cross-sectional	Caries	Plaque	Deciduous	33 months
+de Jesus et al., 2087	SRR9712168	Cross-sectional	Health	Plaque	Deciduous	65 months
+de Jesus et al., 2088	SRR9712169	Cross-sectional	Caries	Plaque	Deciduous	40 months
+de Jesus et al., 2089	SRR9712170	Cross-sectional	Caries	Plaque	Deciduous	62 months
+de Jesus et al., 2090	SRR9712171	Cross-sectional	Caries	Plaque	Deciduous	47 months
+de Jesus et al., 2091	SRR9712172	Cross-sectional	Caries	Plaque	Deciduous	47 months
+de Jesus et al., 2092	SRR9712173	Cross-sectional	Health	Plaque	Deciduous	42 months
+de Jesus et al., 2093	SRR9712174	Cross-sectional	Health	Plaque	Deciduous	56 months
+de Jesus et al., 2094	SRR9712175	Cross-sectional	Caries	Plaque	Deciduous	49 months
+de Jesus et al., 2095	SRR9712176	Cross-sectional	Caries	Plaque	Deciduous	44 months
+de Jesus et al., 2096	SRR9712177	Cross-sectional	Caries	Plaque	Deciduous	45 months
+de Jesus et al., 2097	SRR9712178	Cross-sectional	Caries	Plaque	Deciduous	40 months
+de Jesus et al., 2098	SRR9712179	Cross-sectional	Health	Plaque	Deciduous	63 months
+de Jesus et al., 2099	SRR9712180	Cross-sectional	Health	Plaque	Deciduous	51 months
+de Jesus et al., 2100	SRR9712181	Cross-sectional	Caries	Plaque	Deciduous	31 months
+de Jesus et al., 2101	SRR9712182	Cross-sectional	Caries	Plaque	Deciduous	37 months
+de Jesus et al., 2102	SRR9712183	Cross-sectional	Caries	Plaque	Deciduous	40 months
+de Jesus et al., 2103	SRR9712184	Cross-sectional	Caries	Plaque	Deciduous	33 months
+de Jesus et al., 2104	SRR9712185	Cross-sectional	Caries	Plaque	Deciduous	28 months
+de Jesus et al., 2105	SRR9712186	Cross-sectional	Health	Plaque	Deciduous	34 months
+de Jesus et al., 2106	SRR9712187	Cross-sectional	Caries	Plaque	Deciduous	57 months
+de Jesus et al., 2107	SRR9712188	Cross-sectional	Caries	Plaque	Deciduous	52 months
+de Jesus et al., 2108	SRR9712189	Cross-sectional	Caries	Plaque	Deciduous	52 months
+de Jesus et al., 2109	SRR9712190	Cross-sectional	Caries	Plaque	Deciduous	47 months
+de Jesus et al., 2110	SRR9712191	Cross-sectional	Caries	Plaque	Deciduous	31 months
+de Jesus et al., 2111	SRR9712192	Cross-sectional	Caries	Plaque	Deciduous	51 months
+de Jesus et al., 2112	SRR9712193	Cross-sectional	Caries	Plaque	Deciduous	52 months
+de Jesus et al., 2113	SRR9712194	Cross-sectional	Caries	Plaque	Deciduous	40 months
+de Jesus et al., 2114	SRR9712195	Cross-sectional	Caries	Plaque	Deciduous	40 months
+de Jesus et al., 2115	SRR9712196	Cross-sectional	Caries	Plaque	Deciduous	35 months
+de Jesus et al., 2116	SRR9712197	Cross-sectional	Caries	Plaque	Deciduous	41 months
+de Jesus et al., 2117	SRR9712198	Cross-sectional	Caries	Plaque	Deciduous	44 months
+de Jesus et al., 2118	SRR9712199	Cross-sectional	Caries	Plaque	Deciduous	56 months
+de Jesus et al., 2119	SRR9712200	Cross-sectional	Caries	Plaque	Deciduous	70 months
+de Jesus et al., 2120	SRR9712201	Cross-sectional	Caries	Plaque	Deciduous	38 months
+de Jesus et al., 2121	SRR9712202	Cross-sectional	Caries	Plaque	Deciduous	30 months
+de Jesus et al., 2122	SRR9712203	Cross-sectional	Caries	Plaque	Deciduous	28 months
+de Jesus et al., 2123	SRR9712204	Cross-sectional	Health	Plaque	Deciduous	34 months
+de Jesus et al., 2124	SRR9712205	Cross-sectional	Caries	Plaque	Deciduous	57 months
+de Jesus et al., 2125	SRR9712206	Cross-sectional	Caries	Plaque	Deciduous	52 months
+de Jesus et al., 2126	SRR9712207	Cross-sectional	Caries	Plaque	Deciduous	52 months
+de Jesus et al., 2127	SRR9712208	Cross-sectional	Caries	Plaque	Deciduous	47 months
+de Jesus et al., 2128	SRR9712209	Cross-sectional	Health	Plaque	Deciduous	51 months
+de Jesus et al., 2129	SRR9712210	Cross-sectional	Health	Plaque	Deciduous	71 months
+de Jesus et al., 2130	SRR9712211	Cross-sectional	Health	Plaque	Deciduous	35 months
+de Jesus et al., 2131	SRR9712212	Cross-sectional	Caries	Plaque	Deciduous	52 months
+de Jesus et al., 2132	SRR9712213	Cross-sectional	Health	Plaque	Deciduous	65 months
+de Jesus et al., 2133	SRR9712214	Cross-sectional	Health	Plaque	Deciduous	34 months
+de Jesus et al., 2134	SRR9712215	Cross-sectional	Health	Plaque	Deciduous	62 months
+de Jesus et al., 2135	SRR9712216	Cross-sectional	Health	Plaque	Deciduous	34 months
+de Jesus et al., 2136	SRR9712217	Cross-sectional	Health	Plaque	Deciduous	36 months
+de Jesus et al., 2137	SRR9712218	Cross-sectional	Health	Plaque	Deciduous	25 months
+de Jesus et al., 2138	SRR9712219	Cross-sectional	Health	Plaque	Deciduous	67 months
+de Jesus et al., 2139	SRR9712220	Cross-sectional	Health	Plaque	Deciduous	37 months
+de Jesus et al., 2140	SRR9712221	Cross-sectional	Health	Plaque	Deciduous	57 months
+de Jesus et al., 2141	SRR9712222	Cross-sectional	Health	Plaque	Deciduous	43 months
+de Jesus et al., 2142	SRR9712223	Cross-sectional	Health	Plaque	Deciduous	28 months
+de Jesus et al., 2143	SRR9712224	Cross-sectional	Health	Plaque	Deciduous	38 months
+de Jesus et al., 2144	SRR9712225	Cross-sectional	Health	Plaque	Deciduous	33 months
+de Jesus et al., 2145	SRR9712226	Cross-sectional	Health	Plaque	Deciduous	65 months
+de Jesus et al., 2146	SRR9712227	Cross-sectional	Health	Plaque	Deciduous	40 months
+de Jesus et al., 2147	SRR9712228	Cross-sectional	Caries	Plaque	Deciduous	70 months
+de Jesus et al., 2148	SRR9712229	Cross-sectional	Health	Plaque	Deciduous	50 months
+de Jesus et al., 2149	SRR9712230	Cross-sectional	Health	Plaque	Deciduous	42 months
+de Jesus et al., 2150	SRR9712231	Cross-sectional	Health	Plaque	Deciduous	71 months
+de Jesus et al., 2151	SRR9712232	Cross-sectional	Health	Plaque	Deciduous	51 months
+de Jesus et al., 2152	SRR9712233	Cross-sectional	Health	Plaque	Deciduous	56 months
+de Jesus et al., 2153	SRR9712234	Cross-sectional	Health	Plaque	Deciduous	42 months
+de Jesus et al., 2154	SRR9712235	Cross-sectional	Health	Plaque	Deciduous	51 months
+de Jesus et al., 2155	SRR9712236	Cross-sectional	Health	Plaque	Deciduous	63 months
+de Jesus et al., 2156	SRR9712237	Cross-sectional	Caries	Plaque	Deciduous	40 months
+de Jesus et al., 2157	SRR9712238	Cross-sectional	Caries	Plaque	Deciduous	45 months
+de Jesus et al., 2158	SRR9712239	Cross-sectional	Caries	Plaque	Deciduous	37 months
+de Jesus et al., 2159	SRR9712240	Cross-sectional	Caries	Plaque	Deciduous	31 months
+de Jesus et al., 2160	SRR9712241	Cross-sectional	Health	Plaque	Deciduous	41 months
+de Jesus et al., 2161	SRR9712242	Cross-sectional	Health	Plaque	Deciduous	44 months
+de Jesus et al., 2162	SRR9712243	Cross-sectional	Health	Plaque	Deciduous	63 months
+de Jesus et al., 2163	SRR9712244	Cross-sectional	Caries	Plaque	Deciduous	33 months
+de Jesus et al., 2164	SRR9712245	Cross-sectional	Caries	Plaque	Deciduous	53 months
+de Jesus et al., 2165	SRR9712246	Cross-sectional	Caries	Plaque	Deciduous	40 months
+de Jesus et al., 2166	SRR9712247	Cross-sectional	Caries	Plaque	Deciduous	39 months
+de Jesus et al., 2167	SRR9712248	Cross-sectional	Caries	Plaque	Deciduous	64 months
+de Jesus et al., 2168	SRR9712249	Cross-sectional	Health	Plaque	Deciduous	63 months
+de Jesus et al., 2169	SRR9712250	Cross-sectional	Caries	Plaque	Deciduous	59 months
+de Jesus et al., 2170	SRR9712251	Cross-sectional	Health	Plaque	Deciduous	50 months
+de Jesus et al., 2171	SRR9712252	Cross-sectional	Health	Plaque	Deciduous	42 months
+de Jesus et al., 2172	SRR9712253	Cross-sectional	Health	Plaque	Deciduous	40 months
+de Jesus et al., 2173	SRR9712254	Cross-sectional	Caries	Plaque	Deciduous	70 months
+de Jesus et al., 2174	SRR9712255	Cross-sectional	Health	Plaque	Deciduous	33 months
+de Jesus et al., 2175	SRR9712256	Cross-sectional	Health	Plaque	Deciduous	65 months
+de Jesus et al., 2176	SRR9712257	Cross-sectional	Health	Plaque	Deciduous	28 months
+de Jesus et al., 2177	SRR9712258	Cross-sectional	Health	Plaque	Deciduous	38 months
+de Jesus et al., 2178	SRR9712259	Cross-sectional	Health	Plaque	Deciduous	57 months
+de Jesus et al., 2179	SRR9712260	Cross-sectional	Health	Plaque	Deciduous	43 months
