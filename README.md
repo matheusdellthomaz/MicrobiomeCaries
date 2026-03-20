@@ -1,4 +1,4 @@
-Here you can find the R scripts, RDS files, csv and txt datasets used in Oral bacteria makers of caries: and in silico machine learning analysis
+Here you can find the R scripts, RDS files, csv and txt datasets used in Oral bacteria markers of caries: an in silico machine learning analysis
 
 MicrobiomeCombinations.R is the script used for testing different ML algorithms, ASVs combinations and combination sizes developed for predicting Carie STATUS from 5 ASVs. In this script the algorithms available are xgboost, glm, rf, and svm.
 
