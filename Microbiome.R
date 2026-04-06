@@ -20,47 +20,94 @@ responses <- data %>% select(response)
 asv_filter <- asvs[, colSums(asvs > 0) >= 0.1 * nrow(asvs)]
 asvres <- cbind(asv_filter,responses)
 
-# Select combination or subset or combination for input in test_combinations function
-asvres <- asvres %>% select("ASV669", "ASV2294","ASV273","ASV765","ASV652","response")
-
 #Feature importance and selection
-#Random Forest
-rf_model <- rand_forest(mode = "classification", trees = 500) %>%
-  set_engine("ranger", importance = "impurity") 
+set.seed(111)
 
-rf_fit <- rf_model  %>% 
-  fit(response ~ ., data = asvres)
-vip(rf_fit)
+folds <- vfold_cv(asvres, v = 5, strata = response)
 
-#GLMNet
-glmnet_model <- logistic_reg(mode = "classification", mixture = 1, penalty = 1) %>%
-  set_engine("glmnet")
-glm_net <- glmnet_model  %>% 
-  fit(response ~ ., data = asvres)
-vip(glm_net)
+glmnet_fs <- map_df(folds$splits, function(split) {
+  
+  train_fold <- analysis(split)
+  
+  X <- model.matrix(response ~ . -1, train_fold)
+  y <- train_fold$response
+  
+  fit <- cv.glmnet(X, y, family = "binomial", alpha = 1)
+  
+  coef_sel <- coef(fit, s = "lambda.min")
+  
+  tibble(
+    feature = rownames(coef_sel),
+    selected = as.numeric(coef_sel[,1] != 0)
+  ) %>%
+    filter(feature != "(Intercept)")
+})
+
+# Frequency selection
+glmnet_freq <- glmnet_fs %>%
+  group_by(feature) %>%
+  summarise(freq = mean(selected)) %>%
+  arrange(desc(freq))
+
+# Threshold (> 60%)
+features_glmnet_cv <- glmnet_freq %>%
+  filter(freq >= 0.6)
+
+# Random Forest Selection
+rf_fs <- map_df(folds$splits, function(split) {
+  
+  train_fold <- analysis(split)
+  
+  rf <- ranger(
+    response ~ ., 
+    data = train_fold, 
+    importance = "permutation"
+  )
+  
+  tibble(
+    feature = names(rf$variable.importance),
+    importance = rf$variable.importance
+  )
+})
+
+rf_importance_cv <- rf_fs %>%
+  group_by(feature) %>%
+  summarise(mean_importance = mean(importance)) %>%
+  arrange(desc(mean_importance))
+
+# Threshold
+features_rf_cv <- rf_importance_cv %>%
+  filter(mean_importance > 5e-4)
 
 # Boruta
-boruta_model <- Boruta(response ~ ., data = asvres, doTrace = 2)
-final_features <- getSelectedAttributes(boruta_model, withTentative = TRUE)
-print(boruta_model)
-attStats(boruta_model)
-stats_boruta <- attStats(boruta_model)
-final_decision <- boruta_model$finalDecision
-stats_boruta$finalDecision <- final_decision
-importance_stats <- attStats(boruta_model)
-importance_stats <- importance_stats %>%
-  tibble::rownames_to_column(var = "feature")
-final_decisions <- boruta_model$finalDecision
+boruta_fs <- map_df(folds$splits, function(split) {
+  
+  train_fold <- analysis(split)
+  
+  boruta_model <- Boruta(response ~ ., data = train_fold, doTrace = 0)
+  stats <- attStats(boruta_model)
+  
+  tibble(
+    feature = rownames(stats),
+    decision = stats$decision
+  )
+})
 
-decisions_df <- data.frame(
-  feature = names(final_decisions),
-  decision = final_decisions
-)
+boruta_summary <- boruta_fs %>%
+  group_by(feature) %>%
+  summarise(
+    prop_confirmed = mean(decision == "Confirmed")
+  ) %>%
+  arrange(desc(prop_confirmed))
 
-# Boruta Decision
-importance_df <- left_join(importance_stats, decisions_df, by = "feature")
+# Threshold 
+features_boruta_cv <- boruta_summary %>%
+  filter(prop_confirmed >= 0.6)
 
 # Recreating steps from Combinatory analysis of features for plotting and statistics
+# Select combination or subset or combination for input in test_combinations function
+asvres <- asvres %>% select("ASV765", "ASV393","ASV1445","ASV273","ASV100","response")
+
 # Train/test split
 set.seed(123)
 split <- initial_split(asvres, 
